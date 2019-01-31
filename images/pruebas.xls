@@ -1,0 +1,926 @@
+string                    <script type="text/javascript">
+                $(document).ready(function(e) {
+                    $(".row").reportCxt({
+                        product: 'AP'
+                    });
+                });
+            </script>
+                <table class="result-list" id="result-de">
+            <thead>
+                <tr>
+                    <td>No. de Póliza</td>
+                    <td>No. Renovacion</td>
+                    <td>Fecha Renovacion</td>
+                    <td>Entidad Financiera</td>
+                    <td>Tipo de Operación</td>
+                    <td>Cliente Entidad Financiera</td>
+                    <td>Estado</td>
+                    <td>Cliente</td>
+                    <td>C.I.</td>
+                                            <td>G&eacute;nero</td>
+                        <td>Ciudad</td>
+                        <td>Deudor / Codeudor</td>
+                        <td>Edad</td>
+                                        <td>Tel&eacute;fono</td>
+                    <td>Celular</td>
+                    <td>Email</td>
+                    <td>Prima</td>
+                    <td>Forma de Pago</td>
+                    <td>Periodicidad</td>
+                    <td>Creado Por</td>
+                    <td>Fecha de Ingreso</td>
+                    <td>Sucursal</td>
+                    <td>Agencia</td>
+                    <td>Certificados Anulados</td>
+                    <td>Anulado Por</td>
+                    <td>Fecha de Anulaci&oacute;n</td>
+                    <td>Motivo Anulado</td>
+                    <td>Pre-Impreso</td>
+                    <td>No. Certificado Pre-Impreso</td>
+                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                            </tr>
+            </thead>
+            <tbody>
+                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1OTk0MWVhZTk0YTAuMjM1MzY4MDc="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24498</td> -->
+                                    <td >334184498</td>
+                                    <td >0</td>
+                                    <td >09/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>ALDAIR MEDINA LOVERA</td>
+                                    <td>9770969 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>19</td>
+                                                                        <td>78009598</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>09/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1OTkyNjI0ZmE2MjIuOTk3OTk0NDI="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24495</td> -->
+                                    <td >334184495</td>
+                                    <td >0</td>
+                                    <td >09/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>ALDAIR MEDINA LOVERA</td>
+                                    <td>9770969 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>19</td>
+                                                                        <td>78009598</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>09/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1ODMxYzE0NGFlYTUuNjE4NDUzODI="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24411</td> -->
+                                    <td >334184411</td>
+                                    <td >0</td>
+                                    <td >08/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>MAYUMI XUXA CHAMBI MORALES</td>
+                                    <td>9002388 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>24</td>
+                                                                        <td>75093157</td>
+                                    <td>75093157</td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>08/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NzJlM2VjYzEzNzUuNDQzNjYzMzQ="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24392</td> -->
+                                    <td >334184392</td>
+                                    <td >0</td>
+                                    <td >07/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>MIGUEL ANGEL SURUBI ROCA</td>
+                                    <td>8152138 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>28</td>
+                                                                        <td>69036567</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>07/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NzJiNGRjZmYxODMuMTc4NDY0MjI="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24387</td> -->
+                                    <td >334184387</td>
+                                    <td >0</td>
+                                    <td >07/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>MELFY MONTA&Ntilde;O BLANCO</td>
+                                    <td>7853138 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>26</td>
+                                                                        <td>69092139</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>07/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NzI2YmYxZGU5NjguNjI1NjkzNTc="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24383</td> -->
+                                    <td >334184383</td>
+                                    <td >0</td>
+                                    <td >07/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>ALEXANDRA VICTORIA MENESES COTILLO</td>
+                                    <td>9735834 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>24</td>
+                                                                        <td>61331163</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>07/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NWI5Yjg4MmViZTMuNTE1MTM3ODg="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24270</td> -->
+                                    <td >334184270</td>
+                                    <td >0</td>
+                                    <td >06/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>ANA PAOLA RASGUIDO JAMACHI</td>
+                                    <td>6342111 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>24</td>
+                                                                        <td>67799638</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>06/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NWE2YjUyZTY4YTAuNTMyMjAzMTY="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24258</td> -->
+                                    <td >334184258</td>
+                                    <td >0</td>
+                                    <td >06/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>DANIEL JESUS MERCADO MALDONADO</td>
+                                    <td>3860210 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>45</td>
+                                                                        <td>3507483</td>
+                                    <td>72120288</td>
+                                    <td></td>
+                                    <td>180.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>06/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NWE1Y2MzNWRmYjMuNTk5MzU3MDI="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24257</td> -->
+                                    <td >334184257</td>
+                                    <td >0</td>
+                                    <td >06/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>DANIEL JESUS MERCADO MALDONADO</td>
+                                    <td>3860210 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>45</td>
+                                                                        <td>3507483</td>
+                                    <td>72120288</td>
+                                    <td></td>
+                                    <td>180.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>06/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NTk2OTg2MGNjYTQuOTk1Mjc4NDg="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24245</td> -->
+                                    <td >334184245</td>
+                                    <td >0</td>
+                                    <td >06/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>LOLA VARGAS TAPIA</td>
+                                    <td>5348147 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>37</td>
+                                                                        <td>3901218</td>
+                                    <td>78064026</td>
+                                    <td>lvtalida@hotmail.com</td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>06/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1NTk0NTIxOWI4MzYuMTYyMzA3MDM="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24242</td> -->
+                                    <td >334184242</td>
+                                    <td >0</td>
+                                    <td >06/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>LOLA VARGAS TAPIA</td>
+                                    <td>5348147 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>37</td>
+                                                                        <td>3901218</td>
+                                    <td>78064026</td>
+                                    <td>lvtalida@hotmail.com</td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>06/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1MmZiOWM3OTNhNjcuMTY3NTAxNzk="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24184</td> -->
+                                    <td >334184184</td>
+                                    <td >0</td>
+                                    <td >04/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>ELVIN ANDRES RUIZ SAAVEDRA</td>
+                                    <td>4735408 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>33</td>
+                                                                        <td>3465402</td>
+                                    <td>65039214</td>
+                                    <td></td>
+                                    <td>252.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>04/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1MmYxZGIzMTUwYzEuNzk2MDczNzI="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24162</td> -->
+                                    <td >334184162</td>
+                                    <td >0</td>
+                                    <td >04/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>ALGACIR BERNARDO VALLEJOS MENDOZA</td>
+                                    <td>7700190 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>28</td>
+                                                                        <td>3475170</td>
+                                    <td>68826169</td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>04/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1MmVjY2E2MjhmMzMuMjc5ODQzMjk="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24156</td> -->
+                                    <td >334184156</td>
+                                    <td >0</td>
+                                    <td >04/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>ALGACIR BERNARDO VALLEJOS MENDOZA</td>
+                                    <td>7700190 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>28</td>
+                                                                        <td>3475170</td>
+                                    <td>68826169</td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>04/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1MmUxNzcyZTNhMDQuNDg5MTQ1OTc="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-24144</td> -->
+                                    <td >334184144</td>
+                                    <td >0</td>
+                                    <td >04/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>CRISTINA HAYDEE MORENO ZENTENO</td>
+                                    <td>2991376 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>55</td>
+                                                                        <td>3467128</td>
+                                    <td>70030411</td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>04/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc1MDNiNTJhMDlmMzYuNjg1MjI2MjY="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-23963</td> -->
+                                    <td >334183963</td>
+                                    <td >0</td>
+                                    <td >02/06/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>VANESSA MONTA&Ntilde;O TERRAZAS</td>
+                                    <td>7755986 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>29</td>
+                                                                        <td>3473406</td>
+                                    <td>75504421</td>
+                                    <td>aliscruz_01@hotmail.com</td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>02/06/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTc0YzQ1YmQ4NmEwYTguODY4OTk3ODk="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-23463</td> -->
+                                    <td >334183463</td>
+                                    <td >0</td>
+                                    <td >30/05/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>MARIN ZENTENO PLATA</td>
+                                    <td>3190575 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>52</td>
+                                                                        <td>79071295</td>
+                                    <td>79071295</td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>30/05/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTczZTI1OWQ1YjEwNDkuMDIxNTYzMjU="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-22913</td> -->
+                                    <td >334182913</td>
+                                    <td >0</td>
+                                    <td >19/05/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>KARIN ZABALA CHAVEZ</td>
+                                    <td>5842182 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>35</td>
+                                                                        <td>3226569</td>
+                                    <td>71012720</td>
+                                    <td></td>
+                                    <td>180.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Anual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>19/05/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTczZTI0N2QyYjQ3MDUuMjc5NTI2NjQ="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-22912</td> -->
+                                    <td >334182912</td>
+                                    <td >0</td>
+                                    <td >19/05/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>KARIN ZABALA CHAVEZ</td>
+                                    <td>5842182 SC</td>
+                                                                            <td>Mujer</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>35</td>
+                                                                        <td>3226569</td>
+                                    <td>71012720</td>
+                                    <td></td>
+                                    <td>180.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Anual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>19/05/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTczNGExYzEzYTMyYTkuMDM2NDY5NzU="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-22489</td> -->
+                                    <td >334182489</td>
+                                    <td >0</td>
+                                    <td >12/05/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>JOHNNY RICHARD MENDOZA LEANDRO</td>
+                                    <td>5887554 SC</td>
+                                                                            <td>Hombre</td>
+                                        <td>Santa Cruz</td>
+                                        <td>Deudor</td>
+                                        <td>34</td>
+                                                                        <td>75000803</td>
+                                    <td>75000803</td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>12/05/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTczMWU3YzkwZTkwNTcuOTQzMTI0NDU="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-22299</td> -->
+                                    <td >334182299</td>
+                                    <td >0</td>
+                                    <td >10/05/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>EDGAR MOSCOSO AZURDUY</td>
+                                    <td>7505278 CH</td>
+                                                                            <td>Hombre</td>
+                                        <td>Chuquisaca</td>
+                                        <td>Deudor</td>
+                                        <td>27</td>
+                                                                        <td>65848935</td>
+                                    <td>65848935</td>
+                                    <td></td>
+                                    <td>252.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>10/05/2016</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTU1MzYxNDAyY2NhMDEuNDc4MTA0ODk="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-1403</td> -->
+                                    <td >334161403</td>
+                                    <td >1</td>
+                                    <td >13/05/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>RENE SULLCA QUISPE</td>
+                                    <td>5576358 PO</td>
+                                                                            <td>Hombre</td>
+                                        <td>Potosí</td>
+                                        <td>Deudor</td>
+                                        <td>30</td>
+                                                                        <td>71352248</td>
+                                    <td>71352248</td>
+                                    <td></td>
+                                    <td>120.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Anual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>13/05/2015</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                                                <tr style=" background: #F31D1D; color: #fff; " class="row atch_pn" rel="0"
+                                    data-nc="QFMjMSQyMDEzNTU1MjMzZmFlNzQwNTYuNjg4NjY4NjM="
+                                    data-token="2"
+                                    data-issue="MA=="
+                                    data-st="1"
+                                    data-rn="LTE=" >
+                            <!-- <td >AP-1375</td> -->
+                                    <td >334161375</td>
+                                    <td >1</td>
+                                    <td >12/05/2016</td>
+                                    <td >Banco Economico</td>
+                                    <td >Individual</td>
+                                    <td >NO</td>
+                                    <td >Vigente</td>
+                                    <td>GLADYS ARANCIBIA ZAMBRANA</td>
+                                    <td>5684724 CH</td>
+                                                                            <td>Mujer</td>
+                                        <td>Chuquisaca</td>
+                                        <td>Deudor</td>
+                                        <td>31</td>
+                                                                        <td>74339199</td>
+                                    <td>74339199</td>
+                                    <td></td>
+                                    <td>180.00</td>
+                                    <td>Débito Automatico</td>
+                                    <td>Mensual</td>
+                                    <td>DANIEL HUGO CANEDO</td>
+                                    <td>12/05/2015</td>
+                                    <td>Santa Cruz</td>
+                                    <td>AG.1ro. DE MAYO (SCZ)                   </td>
+                                    <td>NO</td>
+                                    <td></td>
+                                    <td></td>
+                                                                            <td></td>
+                                                                            <td>NO</td>
+                                    <td></td>
+                                    <!--<td>Días de Ultima Modificación</td>-->
+                                                                                                                                            </tr>
+                                            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="29" style="text-align:left;">
+                                            </td>
+                </tr>
+            </tfoot>
+        </table>
+        

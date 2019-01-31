@@ -1,0 +1,6 @@
+# ignore folder idea
+.idea/
+img/
+extras/
+configuration.class.php
+getOcupacion.php
